@@ -312,9 +312,9 @@ footer figure{
   text-align: center;
 }
 
-footer [src="taco-cheesington.png"]{
+footer [src="images/taco-cheesington.png"]{
   display: block;
-  width: 10%;
+  width: 50%;
   margin: 0 auto;
 }
 
@@ -566,7 +566,7 @@ footer [src="taco-cheesington.png"]{
   }
   
   footer [src="taco-cheesington.png"]{
-    width: 200px;
+    width: 225px;
     margin: 10px;
   }
 }
