@@ -314,7 +314,7 @@ footer figure{
 
 footer [src="taco-cheesington.png"]{
   display: block;
-  width: 25%;
+  width: 10%;
   margin: 0 auto;
 }
 
@@ -566,7 +566,7 @@ footer [src="taco-cheesington.png"]{
   }
   
   footer [src="taco-cheesington.png"]{
-    width: 10px;
+    width: 200px;
     margin: 10px;
   }
 }
