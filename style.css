@@ -566,7 +566,7 @@ footer [src="taco-cheesington.png"]{
   }
   
   footer [src="taco-cheesington.png"]{
-    width: 200px;
+    width: 0px;
     margin: 10px;
   }
 }
